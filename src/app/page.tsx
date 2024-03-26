@@ -3,15 +3,9 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-    <header>
-
-    </header>
-    <main>
-
-    </main>
-    <footer>
-      
-    </footer>
+      <main className="flex-auto">
+        CONTEÚDO PRINCIPAL
+      </main>
     </>
   );
 }
