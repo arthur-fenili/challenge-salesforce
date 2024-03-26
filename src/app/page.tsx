@@ -4,7 +4,10 @@ export default function Home() {
   return (
     <>
       <main className="flex-auto">
-        CONTEÚDO PRINCIPAL
+        <div className="first-content-div">
+          <div className="dev-text"></div>
+          <div className="div-img"></div>
+        </div>
       </main>
     </>
   );
