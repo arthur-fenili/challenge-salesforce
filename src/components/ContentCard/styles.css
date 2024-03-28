@@ -1,0 +1,16 @@
+.card-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    flex-wrap: wrap;
+    border: 1px solid #5176a3;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+.card-div h1{
+    font-size: 1.25rem;
+    padding: 1rem 0;
+}
