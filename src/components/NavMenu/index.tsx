@@ -10,10 +10,10 @@ export default function NavMenu() {
                 <nav className="navigation">
                     <Image src={im.src} alt="Logo" width={125} height={125} />
                             
-                    <a href="#"><b>HOME</b></a>
+                    <a href="."><b>HOME</b></a>
                     <a href="#"><b>SOBRE</b></a>
                     <a href="#"><b>CONTATO</b></a>
-                    <a href="#"><b>ACESSIBILIDADE</b></a>  
+                    <a href="/acessibilidade"><b>ACESSIBILIDADE</b></a>  
                 </nav>
 
                 <div className='canto-direito-nav-menu'>
@@ -22,7 +22,7 @@ export default function NavMenu() {
                         <p><b>0800 891 1887</b></p>
                     </div>
                     <div className='cadastro-div-nav-menu'>
-                        <a href="#">CADASTRE-SE/LOGIN</a>
+                        <a href="/cadastro">CADASTRE-SE</a>
                     </div>
                 </div>
             </div>
