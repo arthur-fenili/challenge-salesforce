@@ -11,8 +11,7 @@ export default function NavMenu() {
                     <Image src={im.src} alt="Logo" width={125} height={125} />
                             
                     <a href="."><b>HOME</b></a>
-                    <a href="#"><b>SOBRE</b></a>
-                    <a href="#"><b>CONTATO</b></a>
+                    <a href="/integrantes"><b>INTEGRANTES</b></a>
                     <a href="/acessibilidade"><b>ACESSIBILIDADE</b></a>  
                 </nav>
 
