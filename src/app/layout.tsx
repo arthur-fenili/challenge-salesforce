@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Salesforce",
-  description: "Página criada na sprint 3 do challenge",
+  description: "Salesforce: Uma empresa centrada no cliente.",
 };
 
 export default function RootLayout({
