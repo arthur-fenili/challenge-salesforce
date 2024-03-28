@@ -13,8 +13,11 @@ export default function Home() {
               <h1 className="font-bold text-4xl text-blue-500 pb-2">Experimente o Salesforce Starter Suite gratuitamente.</h1>
             </Link>
 
-            <p className="text-xl">Reúna marketing, vendas e atendimento em um único aplicativo. Experimente o Salesforce Starter Suite hoje mesmo.</p>
+            <p className="text-xl pt-4">Reúna marketing, vendas e atendimento em um único aplicativo. Experimente o Salesforce Starter Suite hoje mesmo.</p>
             <p className="text-xl">Não há nada para instalar. Não é necessário cartão de crédito.</p>
+            <button className="m-8 border-dashed border-blue-600 border-2 p-3 rounded-lg hover:bg-slate-400">
+              <Link href="https://www.linkedin.com/in/arthur-fenili" target="blank">Teste aqui!</Link>
+            </button>
           </div>
           <div className=" pt-10">
             <Image src="/img-teste-gratis.webp" width={550} height={375} alt="Imagem teste grátis" />
