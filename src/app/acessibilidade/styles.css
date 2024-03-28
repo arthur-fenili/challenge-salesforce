@@ -14,28 +14,7 @@
     margin: 2rem;
 }
 
-.deuteranopia-div {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid rgb(59 130 246);
-    border-radius: 10px;
-    padding: 2rem;
-}
-
-.protanopia-div {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 0 3rem;
-    border: 1px solid rgb(59 130 246);
-    border-radius: 10px;
-    padding: 2rem;
-}
-
-.tritanopia-div {
+.type-div {
     display: flex;
     flex-direction: column;
     justify-content: center;

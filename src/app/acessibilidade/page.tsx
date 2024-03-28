@@ -27,19 +27,19 @@ export default function Acessibilidade() {
                     </select>
                 </div>
                 <div className='daltonism-types'>
-                    <div className='deuteranopia-div'>
+                    <div className='type-div'>
                         <h2 className='font-bold text-xl text-blue-500 pb-5'>Deuteranopia</h2>
                         <p>Deuteranopia é cegueira verde, uma deficiência genética de visão de cores. Os afetados não podem perceber a cor verde.
                             É uma forma de cegueira vermelho-verde. Se, por outro lado, houver apenas uma fraqueza na percepção verde, isso é chamado de deuteranomalia</p>
                     </div>
 
-                    <div className='protanopia-div'>
+                    <div className='type-div mx-12'>
                         <h2 className='font-bold text-xl text-blue-500 pb-5'>Protanopia</h2>
                         <p>Protanopia é cegueira vermelha, uma deficiência genética de visão de cores. Os afetados não podem perceber a cor vermelha.
                             É uma forma de cegueira vermelho-verde. Se, por outro lado, houver apenas uma fraqueza na percepção vermelha, isso é chamado de protanomalia</p>
                     </div>
 
-                    <div className='tritanopia-div'>
+                    <div className='type-div'>
                         <h2 className='font-bold text-xl text-blue-500 pb-5'>Tritanopia</h2>
                         <p>Tritanopia é cegueira azul, uma deficiência genética de visão de cores. Os afetados não podem perceber a cor azul.
                             É uma forma de cegueira azul-amarelo. Se, por outro lado, houver apenas uma fraqueza na percepção azul, isso é chamado de tritanomalia</p>
