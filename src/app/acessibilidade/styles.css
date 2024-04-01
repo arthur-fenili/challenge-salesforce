@@ -19,7 +19,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 1px solid rgb(59 130 246);
     border-radius: 10px;
+    background-color: #f8f9fa;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     padding: 2rem;
 }
