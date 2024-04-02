@@ -21,7 +21,7 @@ export default function Integrantes() {
                 <div className='integrante'>
                     <img src='/miguel.jpg' alt='Miguel de Dubiani' width='200' height='200'/>
                     <h2 className='py-4'>Miguel de Dubiani</h2>
-                    <p>RM: 552752</p>
+                    <p>RM: 553593</p>
                 </div>
             </div>        
         </div>
